@@ -1,0 +1,12 @@
+{
+    "name": "jimblizz/extranet-bundle",
+    "type": "symfony-bundle",
+    "description": "User management basics for corporate extranet development",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Blizzard",
+            "email": "jim@aciudhl.co.uk"
+        }
+    ]
+}
