@@ -8,5 +8,13 @@
             "name": "James Blizzard",
             "email": "jim@aciudhl.co.uk"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "JimBlizz\\ExtranetBundle\\": ""
+        }
+    },
+    "require": {
+        "symfony/http-kernel": "~2.3"
+    }
 }
